@@ -1,3 +1,7 @@
+**This is a repository which I made when I took part in a conference by a company named "Fifth Try", you can check them out [here](https://www.fifthtry.com/).** 
+
+*They provide an easier way and a more developer friendly way of making websites for those who don't really want to become a full stack developer themselves and want to make a customized personal, portfolio or startup website on their own in a hassle-free manner.*
+
 # Overview
 
 [doc-site](https://fastn-community.github.io/doc-site/) will help you create
@@ -8,7 +12,7 @@ kind of site(personal website, blog, etc).
 
 # Preview
 
-![doc-site](.github/assets/doc-site-example-dark.jpg)
+![design preview](.github/assets/doc-site-example-dark.jpg)
 
 ## Get Rolling
 
